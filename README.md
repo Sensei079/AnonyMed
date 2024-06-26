@@ -8,7 +8,7 @@ AnonyMed is a tool designed to anonymize patient data securely, ensuring complia
 2. Efficient Search and Filter: Quickly find anonymized data by patient name.
 3. Seamless Export: Export anonymized data to a CSV file for further analysis or sharing.
 
-##Tools & Technology
+## Tools & Technology
 
 1. Programming Language: Python
 2. Libraries: Pandas, Gradio
